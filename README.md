@@ -70,7 +70,7 @@ If you use this codebase in academic work, please cite:
 @article{Shaw2025ASD,
   title   = {Adaptive Supergeo Design: A Scalable Framework for Geographic Marketing Experiments},
   author  = {Charles Shaw},
-  journal = {arXiv preprint},
+  journal = {arXiv preprint 2506.20499},
   year    = {2025}
 }
 ```
