@@ -1,6 +1,6 @@
 # Adaptive Supergeo Design (ASD)
 
-A scalable, open-source framework for designing high-quality geographic experiments at marketing scale.
+A scalable, open-source framework for designing high-quality geographic experiments at marketing scale. Pre-print: http://arxiv.org/abs/2506.20499
 
 Geographic ("geo-lift") experiments remain the gold-standard for measuring the incremental return on ad spend (**iROAS**) of large advertising campaigns, yet their design is non-trivial: the number of markets is small, heterogeneity is large, and the exact Supergeo partitioning problem is NP-hard.  **ASD** solves these challenges with a two-stage approach:
 
