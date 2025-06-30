@@ -1,0 +1,4 @@
+Method 1,Method 2,Test Statistic,P-value,P-value (Corrected),Effect Size (Cohen's d),CI Lower,CI Upper,Test Type,Statistically Significant,Practically Significant
+TM-Baseline,SG-TM,6.9053,0.0000,0.0000,1.0918,0.0219,0.0400,ttest,Yes,Yes
+TM-Baseline,ASD-TM,6.4544,0.0000,0.0000,1.0205,0.0288,0.0551,ttest,Yes,Yes
+SG-TM,ASD-TM,5.3468,0.0000,0.0000,0.8454,0.0069,0.0152,ttest,Yes,Yes
